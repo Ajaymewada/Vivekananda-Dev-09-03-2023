@@ -24492,9 +24492,9 @@ body .tpd-size-medium .tpd-content {
     align-items: center;
     margin-top:-55px;
 }
-.header-mainnav .mainmenu li .active{
+/* .header-mainnav .mainmenu li .active{
     color: var(--color-primary)
-}
+} */
 .edu-header .header-brand img{
     width: 120px;
 }
