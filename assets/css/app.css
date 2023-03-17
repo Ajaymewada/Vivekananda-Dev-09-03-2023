@@ -14142,10 +14142,10 @@ body .tpd-size-medium .tpd-content {
 }
 @media only screen and (max-width: 430px) {
     .carousel-caption{
-        bottom: 2rem;
+        bottom: 4rem;
     }
     .carousel-indicators [data-bs-target]{
-        margin-top: -40px;
+        margin-top: 0px;
     }
 }
 @media only screen and (max-width: 1199px) {
